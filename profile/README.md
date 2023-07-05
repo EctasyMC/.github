@@ -7,4 +7,4 @@
 
 ## Projects
 - <a href="https://ectasy.wtf">Ectasy</a> (free & paid minecraft force op)
-- <a href="https://github.com/Body-Alhoha/OpenEctasy">OpenEctasy</a> (opensource minecraft fo
+- <a href="https://github.com/Body-Alhoha/OpenEctasy">OpenEctasy</a> (opensource minecraft force op)
