@@ -3,6 +3,7 @@
 ## Socials
 - https://youtube.com/@minecraftforceop
 - https://discord.gg/forceop
+- https://t.me/ectasyop
 - https://ectasy.wtf
 
 ## Projects
